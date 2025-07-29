@@ -32,11 +32,9 @@ GoldenCheetah is free for everyone to use and modify, released under the GPL v2 
 Golden Cheetah install and build instructions are documented
 for each platform;
 
-INSTALL-WIN32   For building on Microsoft Windows
-
-INSTALL-LINUX   For building on Linux
-
-INSTALL-MAC     For building on Apple MacOS
+- INSTALL-WIN32   For building on Microsoft Windows
+- INSTALL-LINUX   For building on Linux
+- INSTALL-MAC     For building on Apple MacOS
 
 Windows/macOS/Linux on AppVeyor: [![Build status](https://ci.appveyor.com/api/projects/status/i6dwn4m8oyu52ihi?svg=true)](https://ci.appveyor.com/project/Joern-R/goldencheetah-knhd8)
 
